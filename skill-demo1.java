@@ -1,0 +1,2 @@
+class skill-demo1{
+}
